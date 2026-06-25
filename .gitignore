@@ -33,8 +33,8 @@ dist/
 .ipynb_checkpoints/
 
 # FAISS index files (optional, if generated automatically)
- .faiss
-*.pkl
+ 
+
 .env
 
 __pycache__/
@@ -42,5 +42,5 @@ __pycache__/
 
 rag/
 
-faiss/
+
 faiss_index/
